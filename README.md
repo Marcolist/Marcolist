@@ -6,10 +6,13 @@ I enjoy building practical, low-risk integrations that bridge new chains and eco
 ---
 
 ### 🧠 What I’m currently working on
-- MetaMask Snaps, with a focus on **mobile-friendly and low-risk UX**
-- An **SVM-based indexer** with database & API for on-chain data access
-- A lightweight **DEX UI** for exploring liquidity pools and swaps
-- Programmatic **Solana transaction tooling** (research & experimentation)
+- MetaMask Snaps (audit-ready) — mobile-friendly, low-risk UX, hardened permissions & minimal attack surface
+- An SVM-based indexer with database & API for on-chain data access
+- A lightweight DEX UI for exploring liquidity pools and swaps
+- Programmatic Solana transaction tooling (research & experimentation)
+- An SVM wallet app (iOS + Android) built in React Native
+- A Solana Token Risk Scanner (iOS + Android) as a monorepo + backend (scoring, heuristics, and API-first)
+- A phone AI agent for Raspberry Pi 5, delivered as a complete bootable image (turnkey install)
 
 ---
 
@@ -17,7 +20,6 @@ I enjoy building practical, low-risk integrations that bridge new chains and eco
 - Wallet integrations & extensions
 - Solana / SVM-compatible chains
 - Developer experience (DX)
-- Read-only & low-risk Web3 UX
 - Indexing, RPCs, and on-chain data access
 
 ---
