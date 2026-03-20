@@ -6,13 +6,21 @@ I build full-stack — from low-level node infrastructure and indexers to mobile
 🧠 What I'm currently working on
 
 SolaxyEasyNode — one-command node installer for the Solaxy SVM L2 (Celestia DA), with systemd wiring, web dashboard, and Telegram bot integration
+
 orbitnode.dev — Solaxy network monitoring site and validator leaderboard, backed by a VPS-hosted indexer and PostgreSQL
+
 neptoon.me — DEX GUI with candlestick charts and liquidity pool exploration for Solaxy
+
 WoodChain ONE — ESP32-S3 crypto portfolio display in a handcrafted solid wood enclosure (LVGL UI, CoinGecko, OTA, multi-wallet/multi-chain)
+
 NeuraLiquid — autonomous Python trading bot for Hyperliquid perpetuals, running as a Claude Code agent with dual-analyst signal architecture
+
 Edith — AI agent command center for orchestrating local and remote development workflows
+
 PhoneGhost — AI phone agent for Raspberry Pi 5 with SIP/FritzBox integration, delivered as a turnkey bootable image
-VCA-Viewer — C# viewer for VCA/OMA lens files from laser systems
+
+VCA-Viewer — C# 3D viewer for VCA/OMA lens files for laser engraving systems (Engmark)
+
 TokenReaper — Solana token risk scanner (iOS/Android), 41 security checks, tx simulation, freemium with RevenueCat subscriptions
 
 
