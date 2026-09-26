@@ -1,0 +1,78 @@
+{
+  "description": "Terminaltexte für ML85.xyz. Zum Ändern nur header sowie command und response bearbeiten. Neue Einträge zu sequences hinzufügen. Gültiges JSON beibehalten. Diese Texte werden nur angezeigt, nicht ausgeführt.",
+  "header": "connection established",
+  "sequences": [
+    {
+      "command": "ml85 infer --model ghost-7b --precision fp16",
+      "response": "kv-cache warmed · latent space synchronized"
+    },
+    {
+      "command": "tensor.check --shape [1,32,4096] --device cuda:0",
+      "response": "attention heads aligned · anomaly: curious"
+    },
+    {
+      "command": "agent.trace --depth 8 --sandbox sealed",
+      "response": "recursive reasoning contained. probably."
+    },
+    {
+      "command": "entropy.sample --source vacuum --bits 256",
+      "response": "0x7f3a…c091 · sufficiently unpredictable"
+    },
+    {
+      "command": "gradient.audit --norm l2 --clip 0.85",
+      "response": "loss converging · existential doubt unchanged"
+    },
+    {
+      "command": "neural.mesh --quantize int4 --verify",
+      "response": "weights compressed · opinions remain large"
+    },
+    {
+      "command": "crate.inspect --non-invasive",
+      "response": "occupant declined to comment."
+    },
+    {
+      "command": "sudo make coffee --strength singularity",
+      "response": "error: human requires more caffeine"
+    },
+    {
+      "command": "agent.ask \"what is inside the box?\"",
+      "response": "[REDACTED] has entered the conversation."
+    },
+    {
+      "command": "reality.check --strict",
+      "response": "2 warnings · 1 suspiciously confident pigeon"
+    },
+    {
+      "command": "cat /dev/meaning",
+      "response": "permission denied by the universe"
+    },
+    {
+      "command": "model.eval --metric vibes",
+      "response": "vibes: nominal · benchmark: questionable"
+    },
+    {
+      "command": "zk.prove --circuit presence --private",
+      "response": "proof valid · identity remains local"
+    },
+    {
+      "command": "attention.route --heads 32 --window 8192",
+      "response": "tokens dispatched · silence preserved"
+    },
+    {
+      "command": "daemon.status --name box",
+      "response": "sleeping with one eye open"
+    },
+    {
+      "command": "rm -rf /tmp/bad-vibes --dry-run",
+      "response": "simulation complete · vibes spared"
+    },
+    {
+      "command": "system.align --ethics on --chaos 0.03",
+      "response": "alignment stable · tiny chaos approved"
+    },
+    {
+      "command": "git status --universe local",
+      "response": "nothing to commit · everything to ponder"
+    }
+  ]
+}
