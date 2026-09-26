@@ -74,5 +74,23 @@
       "command": "git status --universe local",
       "response": "nothing to commit · everything to ponder"
     }
-  ]
+  ],
+  "events": {
+    "containment": {
+      "command": "containment.monitor --live",
+      "response": "containment breach detected · locks holding"
+    },
+    "manual": {
+      "command": "control.transfer --input human",
+      "response": "manual override engaged"
+    },
+    "dizzy": {
+      "command": "operator.health --check",
+      "response": "please stop shaking the operator"
+    },
+    "observer": {
+      "command": "internal.scan --thermal",
+      "response": "two observers detected · do not make eye contact"
+    }
+  }
 }
