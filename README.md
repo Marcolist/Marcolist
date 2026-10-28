@@ -31,9 +31,6 @@ The portfolio below includes private implementations, research tools, and protot
 - **NeptoonOrbit / Solaxy Indexer / Orbit Indexer** — DEX event indexing, pool and token data, swaps, liquidity events, REST APIs, and explorer dashboards using PostgreSQL and ClickHouse across implementations.
 - **[Solaxy Hub](https://github.com/Marcolist/SolaxyHub)** — React Native wallet work for iOS and Android, combining asset management, DEX and bridge access, a dApp browser, and WalletConnect.
 - **[Solaxy Wallet Snap](https://github.com/Marcolist/solaxy-snap)** — MetaMask Snap integration for Solaxy/SVM key derivation, transaction signing, and message signing.
-- **Hyperlane tooling** — Solaxy/BSC Warp Route configurations, bridge UI adaptations, and cross-chain integration experiments.
-- **Solaxy State Uploader** — State/genesis distribution tools supporting node setup and recovery.
-- **Solaxy protocol research** — Source-level and on-chain analysis, transaction-format reverse engineering, and structured technical findings and evidence documentation.
 
 </details>
 
@@ -84,8 +81,6 @@ The portfolio below includes private implementations, research tools, and protot
 
 - **BaggerPilot** — Web, iOS, and Android planning tool for excavator operations, combining vehicle-specific routing, provider search, and handover documentation.
 - **Bikecheck** — Local used-motorcycle search and comparison tool with deduplication, scoring, filters, and a desktop dashboard.
-- **Fernorbit** — Sci-fi colony-builder concept and preproduction project focused on sustainable ecosystems, exploration, and voluntary trade.
-- **FreiesPferd** — Personal Swift / iOS app project.
 - **[ExcelCall](https://github.com/Marcolist/ExcelCall)** — Excel-to-vCard converter for importing contact lists into an iPhone, available as a Python CLI and Windows GUI.
 - **[Pi SMB Print Server](https://github.com/Marcolist/Pi_SMB_PRINT-SERVER)** — Raspberry Pi bridge connecting legacy Windows printing workflows to modern printers through Samba, CUPS, and a watched folder.
 
